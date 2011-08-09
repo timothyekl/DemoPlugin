@@ -1,0 +1,9 @@
+name: DemoPlugin
+main: com.lithium3141.DemoPlugin.DemoPlugin
+author: lithium3141
+version: 1.0 (rev @BUILD@)
+database: false
+commands:
+    demo:
+        description: Do a demonstration
+        usage: /<command>

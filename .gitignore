@@ -1,0 +1,15 @@
+# Eclipse
+.classpath
+.project
+.settings
+
+# Testing
+minecraft*
+DemoPlugin.jar
+
+# Binary directories
+bin
+lib/*.jar
+
+# Ant
+.externalToolBuilders
